@@ -19,4 +19,7 @@ Laws
 ![image](https://user-images.githubusercontent.com/90755554/150955135-b71617e2-372f-48db-9a25-52c34ef91539.png)<br>
 
 <b>Výsledek</b>
-![image](https://user-images.githubusercontent.com/90755554/150955247-38f09c03-8f13-49f0-9bd1-82af99aa0627.png)
+![image](https://user-images.githubusercontent.com/90755554/150955247-38f09c03-8f13-49f0-9bd1-82af99aa0627.png)<br>
+
+![image](https://user-images.githubusercontent.com/90755554/150957162-e5371787-6d8b-442f-87bf-e4dd22ef76c1.png)
+
