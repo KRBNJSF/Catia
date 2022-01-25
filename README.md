@@ -8,15 +8,27 @@ Catia links
 
 Laws
 ---
-![image](https://user-images.githubusercontent.com/90755554/150954410-b93775c1-2a25-4402-b20f-a4b240a207ff.png)<br>
+<b>Bernouliho lemminskáta</b><br>
 
-![image](https://user-images.githubusercontent.com/90755554/150954437-5b671b7b-1349-4f63-b77f-771dfd8aef41.png)<br>
+- ![image](https://user-images.githubusercontent.com/90755554/150954410-b93775c1-2a25-4402-b20f-a4b240a207ff.png)<br>
+- ![image](https://user-images.githubusercontent.com/90755554/150954437-5b671b7b-1349-4f63-b77f-771dfd8aef41.png)<br>
+- ![image](https://user-images.githubusercontent.com/90755554/150955339-6a54f931-9b92-421e-998c-8edd23481bb7.png)<br>
 
-![image](https://user-images.githubusercontent.com/90755554/150955339-6a54f931-9b92-421e-998c-8edd23481bb7.png)<br>
+ ``
+ x=t*0
+ ``
+ 
+- ![image](https://user-images.githubusercontent.com/90755554/150954379-df31b210-f1f5-4ce5-8b0d-d5fdc27b181c.png)<br>
 
-![image](https://user-images.githubusercontent.com/90755554/150954379-df31b210-f1f5-4ce5-8b0d-d5fdc27b181c.png)<br>
+``
+ y=sqrt(2*E )*(cos(t*PI*1rad)/(1+sin(t*PI*1rad)*sin(t*PI*1rad)))
+ ``
+ 
+- ![image](https://user-images.githubusercontent.com/90755554/150955135-b71617e2-372f-48db-9a25-52c34ef91539.png)<br>
 
-![image](https://user-images.githubusercontent.com/90755554/150955135-b71617e2-372f-48db-9a25-52c34ef91539.png)<br>
+ ``
+z=sqrt(2*E )*(sin(t*PI*1rad)*cos(t*PI*1rad))/(1+sin(t*PI*1rad)*sin(t*PI*1rad))
+ ``
 
 <b>Výsledek</b>
 ![image](https://user-images.githubusercontent.com/90755554/150955247-38f09c03-8f13-49f0-9bd1-82af99aa0627.png)<br>
