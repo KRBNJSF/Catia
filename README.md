@@ -6,6 +6,10 @@ Catia links
 <a href = "https://www.wichita.edu/industry_and_defense/NIAR/Documents/Wireframe-and-Surfaces-2019x.pdf">Catia link</a><br>
 <strong><a href= "https://catiahelp.azurewebsites.net/English/GsdUserMap/gsd-r-ui-MenuBar.htm">Catia link</a></strong>
 
+<a href="http://www.catia-forum.cz/manual-catia/shape/">Shape tutorial</a>
+
+https://catiav5v6tutorials.com/catia-v5-tutorials/generative-shape-design/catia-generative-shape-design-beginner-tutorial/
+
 # Laws
 Bernouliho lemminskáta
 ---
@@ -56,4 +60,10 @@ z=k*R*sin(t*PI*1rad)-R*sin(k*t*PI*1rad)
 <b>Výsledek</b><br>
 
 ![image](https://user-images.githubusercontent.com/90755554/150959090-69bdd79e-079d-483e-9f85-509d3228e10c.png)
+
+# Sketcher
+
+<a href="http://www.catia-forum.cz/manual-catia/sketcher/">Sketcher</a>
+
+
 
