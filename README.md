@@ -63,7 +63,43 @@ z=k*R*sin(t*PI*1rad)-R*sin(k*t*PI*1rad)
 
 # Sketcher
 
+11.02. 2022
+---
+
 <a href="http://www.catia-forum.cz/manual-catia/sketcher/">Sketcher</a>
 
+<b>Kóty</b>
+
+![image](https://user-images.githubusercontent.com/90755554/153572883-de4771fa-36d0-4879-aad5-35b36bccc882.png)
+
+![image](https://user-images.githubusercontent.com/90755554/153572959-e79625b8-cac1-4a79-98ee-cef155d96633.png)
+
+![image](https://user-images.githubusercontent.com/90755554/153573273-d7b4bd1f-83c2-46a0-99ad-ad0a9b71d5eb.png)
+
+Constraint + Right mouse button ->
+
+![image](https://user-images.githubusercontent.com/90755554/153574156-60716534-b269-4d72-bf57-c43a4914a0d7.png)
+
+Constraint + druhá přímka + pravé tlačítko u myši ->
+
+![image](https://user-images.githubusercontent.com/90755554/153574604-9e0d46ac-d804-43a9-b7b0-faaf7a674bc6.png)
+
+<b>Metoda equal</b>
+
+![image](https://user-images.githubusercontent.com/90755554/153574886-7238b5d9-dc08-4c80-86d9-240c9cf5452d.png)
+
+
+![image](https://user-images.githubusercontent.com/90755554/153574830-7fd4abce-8210-40a0-a380-a5efbd80e6af.png)
+
+Constraint + druhá přímka -> Odchylka přímek
+
+![image](https://user-images.githubusercontent.com/90755554/153575006-d39c853b-00dd-44c1-b133-141dde581c69.png)
+
+
+<b>Metoda coincidence</b>
+
+![image](https://user-images.githubusercontent.com/90755554/153575253-1e0a6788-61ba-41b5-ae79-1d2fa7900662.png)
+
+![image](https://user-images.githubusercontent.com/90755554/153575282-313f7cb6-df56-44db-994b-079b7fd1ad67.png)
 
 
