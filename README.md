@@ -113,10 +113,10 @@ Constraint + druhá přímka -> Odchylka přímek
 ![image](https://user-images.githubusercontent.com/90755554/154662116-b367a352-66a2-4bcd-9bb2-ec27a916fd3b.png)
 
 - Perpendicular (Kolmost)
-- Mirror
-  - Ozrcadlí vybrané elementy podle přímky nebo osy a vytvoří příslušné vazby s původním elementem.
 
 ![image](https://user-images.githubusercontent.com/90755554/154662689-d083c641-9d1c-490d-ad37-031ae511cc1d.png)
+- Mirror
+  - Ozrcadlí vybrané elementy podle přímky nebo osy a vytvoří příslušné vazby s původním elementem.
+  - Kliknu na objekt, poté na osu
 
-- Kliknu na objekt, poté na osu
-- 
+
