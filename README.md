@@ -119,4 +119,5 @@ Constraint + druhá přímka -> Odchylka přímek
   - Ozrcadlí vybrané elementy podle přímky nebo osy a vytvoří příslušné vazby s původním elementem.
   - Kliknu na objekt, poté na osu
 
+![image](https://user-images.githubusercontent.com/90755554/154664823-175fe7c1-6bbc-4bae-8947-8d2525b7429c.png)
 
