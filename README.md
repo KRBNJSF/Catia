@@ -102,4 +102,8 @@ Constraint + druhá přímka -> Odchylka přímek
 
 ![image](https://user-images.githubusercontent.com/90755554/153575282-313f7cb6-df56-44db-994b-079b7fd1ad67.png)
 
-
+18.02. 2022
+---
+### Hvezdice
+- kružnice r = 98mm, střed v počátku
+- 
