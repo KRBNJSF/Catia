@@ -121,3 +121,21 @@ Constraint + druhá přímka -> Odchylka přímek
 
 ![image](https://user-images.githubusercontent.com/90755554/154664823-175fe7c1-6bbc-4bae-8947-8d2525b7429c.png)
 
+4.03. 2022
+---
+### Klic
+- Arc (Body na osách x, y; délka 26mm)
+- line (Mirror na axis x)
+- Quick Trim na přebytek kružnice (Operations)
+- Délka přímky 35mm
+- Profile (Profile) - tvorba náčrtu
+
+![image](https://user-images.githubusercontent.com/90755554/156743114-e7114561-77c7-4bfa-ab26-0f05fefe8fa0.png)
+
+- Constraint -> osa 1 -> osa 2, Allow symmetry line -> osa X
+- Corner -> Constraint -> Equal
+
+Viditelnost aplikovaného povrchu ->
+
+![image](https://user-images.githubusercontent.com/90755554/156751257-00408277-9856-4f90-9826-8db6bf8819b8.png)
+
