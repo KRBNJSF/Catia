@@ -139,3 +139,7 @@ Viditelnost aplikovaného povrchu ->
 
 ![image](https://user-images.githubusercontent.com/90755554/156751257-00408277-9856-4f90-9826-8db6bf8819b8.png)
 
+![image](https://user-images.githubusercontent.com/90755554/157849145-851ddfaf-449a-4e45-977c-6331af3da629.png)
+
+![image](https://user-images.githubusercontent.com/90755554/157849178-b87fd411-2df4-4f77-b65f-530b851cc05d.png)
+
