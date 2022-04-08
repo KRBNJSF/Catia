@@ -143,3 +143,22 @@ Viditelnost aplikovaného povrchu ->
 
 ![image](https://user-images.githubusercontent.com/90755554/157849178-b87fd411-2df4-4f77-b65f-530b851cc05d.png)
 
+
+# Assembly Design - Sestavy
+
+<a href="http://catiadoc.free.fr/online/CATIAfr_C2/asmugCATIAfrs.htm">Assembly Design</a>
+
+Finální výsledek je Product, který se skládá z Parts
+
+Tvorba partu: 
+
+![image](https://user-images.githubusercontent.com/90755554/162401748-d7e722f5-c5e5-4ff5-888f-f7acd1105ff6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/90755554/162401971-da073da1-154f-4c67-858f-48c246916008.png)
+
+Dvojitý klik na ram_kola -> Zpět v Assembly design
+![image](https://user-images.githubusercontent.com/90755554/162407098-0aefe042-a7d2-4e77-98c3-7b3d5b7eddb8.png)
+
+
