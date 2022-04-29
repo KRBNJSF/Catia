@@ -146,6 +146,8 @@ Viditelnost aplikovaného povrchu ->
 
 # Assembly Design - Sestavy
 
+Metoda skeleton
+
 <a href="http://catiadoc.free.fr/online/CATIAfr_C2/asmugCATIAfrs.htm">Assembly Design</a>
 
 Finální výsledek je Product, který se skládá z Parts
@@ -160,5 +162,48 @@ Tvorba partu:
 
 Dvojitý klik na ram_kola -> Zpět v Assembly design
 ![image](https://user-images.githubusercontent.com/90755554/162407098-0aefe042-a7d2-4e77-98c3-7b3d5b7eddb8.png)
+
+
+![image](https://user-images.githubusercontent.com/90755554/165914397-921acb85-1e63-48b8-80a6-80d93b8ded8a.png)
+
+Poté zvolím umístění souboru, např. do Product.
+
+Zde
+
+![image](https://user-images.githubusercontent.com/90755554/165914539-ccd82d8c-404b-4e17-8c1b-037823ddcdff.png)
+
+**Zakotvení partu**
+
+Constraints, Kotva (Fix component) -> objekt
+
+![image](https://user-images.githubusercontent.com/90755554/165915289-dd5352d6-ff30-4ed0-b5b1-be533ed6d1ff.png)
+
+Přesouvání partu
+
+![image](https://user-images.githubusercontent.com/90755554/165916109-56f435c9-8836-40b9-94d7-fde21588e12c.png)
+ Kliknu na červenou tečku a přesunu na part, vytáhnu jeho vertikální osu
+ 
+ Spojení partů
+ 
+ ![image](https://user-images.githubusercontent.com/90755554/165916624-e422f45f-886a-4e44-8367-1daf6bbf660b.png)
+ 
+ Zvolím dvě roviny, poté Update all
+ 
+ ![image](https://user-images.githubusercontent.com/90755554/165916728-818d682f-856b-491a-b4f2-a573e946e8d1.png)
+ 
+ Zjištění kontaktu mezi party
+ 
+ ![image](https://user-images.githubusercontent.com/90755554/165917914-50078382-7eff-4f8c-9761-a04dba8c0eae.png)
+
+![image](https://user-images.githubusercontent.com/90755554/165917968-4fee88d3-644f-451c-9921-e412b827ed31.png)
+
+Rozdělení dílů - Rozstřel
+
+![image](https://user-images.githubusercontent.com/90755554/165918530-8830b6e4-e8c4-4205-9603-7011c72009fd.png)
+
+Po update all se party opět spojí
+
+
+
 
 
