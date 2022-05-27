@@ -204,6 +204,65 @@ Rozdělení dílů - Rozstřel
 Po update all se party opět spojí
 
 
+# Kinematics - Kinematika
 
+![image](https://user-images.githubusercontent.com/90755554/170666007-8ce7e7b0-4a96-409f-a5bc-a619b787c86c.png)
 
+![image](https://user-images.githubusercontent.com/90755554/170667376-d5f93f56-35b4-4377-9bc3-e08a80f26008.png)
+
+Vytvoříme nový mechanismus a pojmenujeme
+
+![image](https://user-images.githubusercontent.com/90755554/170667435-6ceb9aa9-38ee-41ec-a2ef-bf2bfec18765.png)
+
+Klikneme na část, kterou chceme ukotvit - Fixed Part
+
+![image](https://user-images.githubusercontent.com/90755554/170667837-46d01e67-b248-473d-bb51-b29fca032445.png)
+
+Vznikl nový strom
+
+![image](https://user-images.githubusercontent.com/90755554/170667558-551a1ac6-f3a2-4ae1-92dc-6a62949aae7b.png)
+
+### Tvorba pevných spojů - Rigid joint (Rotační kinematická dvojice)
+
+![image](https://user-images.githubusercontent.com/90755554/170667893-4cd2f3b0-88e9-407e-a4b4-d330d9ce0bfd.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170667944-17f0dbf9-6b9a-4ca7-9dc0-8eec9c42c9f6.png)
+
+### Rotační pohyb - Revolute Joint
+
+![image](https://user-images.githubusercontent.com/90755554/170668294-9ae0fced-40ef-41e1-b574-caac673484ee.png)
+
+Vyberu přímky a roviny objektů
+
+![image](https://user-images.githubusercontent.com/90755554/170668973-54128daa-d97f-47d2-994f-7a4974fa7b69.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170669262-3a7a8c95-4b0e-4d82-a6a8-8d8313b70473.png)
+
+Zadávání Angle driven Revolute Joint
+
+### Prismatic Joint
+
+![image](https://user-images.githubusercontent.com/90755554/170669919-1cb83b16-ab72-42ea-8c4d-34027130c037.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170670312-5d50da18-392a-432d-8589-fa729f5bac7d.png)
+
+## Simulace
+
+![image](https://user-images.githubusercontent.com/90755554/170670854-da294143-99e2-40c9-9ffc-545b73bc56fe.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170673636-4033d962-ceb6-4d27-8cb4-6e04a61b8d8f.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170674244-38eb453e-2667-48e2-a9dc-c9969c9808be.png)
+
+Play
+
+![image](https://user-images.githubusercontent.com/90755554/170674308-c943e78a-b2a6-42bb-82be-63872d4a922b.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170673823-38ad200c-2423-4577-aca3-b746deca8b3d.png)
+
+Lepší záznam
+
+![image](https://user-images.githubusercontent.com/90755554/170674471-17d9820b-32ff-48c6-b964-e69ee732445b.png)
+
+![image](https://user-images.githubusercontent.com/90755554/170674568-a23ff8d4-2dd6-4792-b46b-7cd6971dce37.png)
 
